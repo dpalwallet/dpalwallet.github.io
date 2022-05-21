@@ -1,1 +1,0 @@
-window.DOGE=require("bitcore-lib"),window.routerBase="/";
